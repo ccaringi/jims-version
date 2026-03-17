@@ -1,0 +1,1 @@
+This is a new from_remote file used to distinguish it from the previous one.
